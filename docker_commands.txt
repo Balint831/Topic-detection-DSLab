@@ -1,0 +1,8 @@
+Run with folder mounted, port forwarded for jupyter
+docker run -v C:/Users/balin/Desktop/9.félév:/home/user/mnt -p 8888:8888 -p 6006:6006 -it -u user -w /home/user tiagopeixoto/graph-tool bash
+
+Start jupyter
+jupyter notebook --ip 0.0.0.0
+
+Get root 
+docker exec -u 0 -it hardcore_swanson bash
