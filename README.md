@@ -1,10 +1,7 @@
 # Topic detection - Data Science Laboratory project
 
 ## Author:
-Bálint Hantos
-
-## Supervisor:
-István Márkusz
+Bálint Hantos - under the supervision of István Márkusz
 
 ## Presentations
 The presentations I've given during the semester to give a check up on the progress.
